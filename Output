@@ -1,0 +1,20 @@
+my thread createdThread[my extending thread,5,main]
+Main thread will be alive till the child thread is live
+Printing the count 0
+Printing the count 1
+Main thread will be alive till the child thread is live
+Printing the count 2
+Main thread will be alive till the child thread is live
+Printing the count 3
+Printing the count 4
+Main thread will be alive till the child thread is live
+Printing the count 5
+Main thread will be alive till the child thread is live
+Printing the count 6
+Printing the count 7
+Main thread will be alive till the child thread is live
+Printing the count 8
+Main thread will be alive till the child thread is live
+Printing the count 9
+My thread run is over
+Main thread's run is over
